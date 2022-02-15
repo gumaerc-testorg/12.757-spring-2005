@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teaching This Course
 uid: 18a47853-cc54-6ce5-9348-f02bb40cd46b
 ---
