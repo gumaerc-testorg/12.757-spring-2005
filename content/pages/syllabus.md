@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, meeting times,
+  grading, prerequisites, and preparation for class meetings.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -37,4 +39,4 @@ This seminar is open to all Joint Program students. It is desirable (not mandato
 Preparation for Class Meetings
 ------------------------------
 
-The first ten meetings will be conducted as discussions of the questions that are listed in the course [calendar]({{< baseurl >}}/pages/calendar). The reading assignments provide one plausible view to consider, and are an essential common basis for this discussion. These discussions will be stimulating and valuable only to the extent that we all come to class prepared to offer a critique of the reading assignment, to offer our own views, and to ask new questions. The aim is not necessarily to come to a closed solution, but to develop a working understanding of the issues as they relate to our research.
+The first ten meetings will be conducted as discussions of the questions that are listed in the course {{% resource_link 44410031-c877-626b-15db-79ffc1ee40f2 "calendar" %}}. The reading assignments provide one plausible view to consider, and are an essential common basis for this discussion. These discussions will be stimulating and valuable only to the extent that we all come to class prepared to offer a critique of the reading assignment, to offer our own views, and to ask new questions. The aim is not necessarily to come to a closed solution, but to develop a working understanding of the issues as they relate to our research.
