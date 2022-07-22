@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page reviews the pedagogy of the course from the perspective of
+  the course instructor, Dr. James F. Price.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teaching This Course
 uid: 18a47853-cc54-6ce5-9348-f02bb40cd46b
 ---
@@ -16,7 +20,7 @@ About the Course
 
 This page focuses on the course _[12.757 Science and Communication]({{< baseurl >}}/)_ as it was taught in Spring 2005.
 
-Science and Communication is a seminar course that is intended to help students in the [MIT/Woods Hole Oceanographic Institution Joint Program](http://mit.whoi.edu/) develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication. Learn more about the course in the [Syllabus]({{< baseurl >}}/pages/syllabus).
+Science and Communication is a seminar course that is intended to help students in the [MIT/Woods Hole Oceanographic Institution Joint Program](http://mit.whoi.edu/) develop a broader perspective on their thesis research by considering some aspects of science in the large. The first part of the course challenges students to develop a thoughtful view towards major questions in science that can be incorporated in their own research process, and that will help them articulate research findings. The second part of the course emphasizes science as a social process and the important roles of written and oral communication. Learn more about the course in the {{% resource_link 202260a9-d245-0b4d-1fc8-b0988739f73e "Syllabus" %}}.
 
 Teaching Insights
 -----------------
